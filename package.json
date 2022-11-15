@@ -1,0 +1,19 @@
+{
+  "name": "sql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "electron ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@thiago-kaique/cjs-dom-builder": "^1.0.1",
+    "electron": "^21.2.3"
+  },
+  "devDependencies": {
+    "electron-reloader": "^1.2.3"
+  }
+}
